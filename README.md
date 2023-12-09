@@ -17,6 +17,7 @@ Present their findings and demonstrate their super resolution models on chosen d
 The mentees will emerge from this intensive 4-week journey with the technical prowess to tackle complex AI challenges, particularly in the domain of Super Resolution, and will have acquired valuable skills that will pave the way for their future endeavors in AI and machine learning.
 ## DATASET :
 Training : We’ll primarily use the DIV2K dataset (https://www.kaggle.com/datasets/joe1995/div2k-dataset) for training and validation. More datasets may be used to further improve our model.
+
 Testing : Set5 and Set14 datasets (https://www.kaggle.com/datasets/ll01dm/set-5-14-super-resolution-dataset) 
 
 
